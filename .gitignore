@@ -1,0 +1,15 @@
+# 忽略编译生成的class文件
+*.class
+# 忽略输出目录
+/bin/
+/out/
+/target/
+# 忽略 IDE 的配置文件
+.idea/
+*.iml
+# 忽略 Java 依赖的 Maven 文件
+*.war
+*.ear
+*.jar
+# 忽略日志文件
+*.log
